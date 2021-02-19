@@ -10,10 +10,26 @@ ISM(Industrial Scientific and Medical)대역인 2400 ~ 2483.5MHz를 사용한다
 
 참고로 하나의 마스터에 최대 7개의 슬레이브기기를 연결할 수 있으면 마스터와 슬레이브 간의 통신만 가능할 뿐만 아니라 슬레이브 기기 간의 통신은 불가능하다. 그러나 마스터와 슬레이브의 역할은 고정된 것이 아니므로 상황에 따라 서로 역할을 바꿀 수 있다.
 
+<img src="https://user-images.githubusercontent.com/71697729/108474100-3f8f8100-72d2-11eb-8c0c-f7069251b2fd.png" width="350 height="300">
+<img src="https://user-images.githubusercontent.com/71697729/108474180-5d5ce600-72d2-11eb-9500-576940cc8d6b.png" width="350 height="300">
+
+
 ※참고※
 하나의 공동 마스터로 최대7개의 슬레이브가 연결되어 하나의 피코넷을 형성한다. 
 피코넷상의 모든장치들은 마스터의 주파수 호핑 순번과 시간에 동기화된다.
 하나의 장치가 두 개이상의 피코넷에 참여되어 있는 상태를 스캐터넷이라고한다.
+
+
+## 비트레이트(Bit Rate) & 보드레이트(Baud rate)
+1. 비트레이트(Bit Rate)
+비트 레이트(Bit Rate)는 초당 얼마나 많은 데이터 비트(1 or 0)를 전송할 수 있는가를 나타내느 말이다.
+bps(Bit Per Second)는 초당 보낼 수 있는 비트의 수를 나타낸다.
+
+2. 보드레이트(Baud rate)
+보레이트는 초당 얼마나 많은 심볼(Symbol, 의미있는 데이터의 묶음)을 전송할 수 있는 지를 나타낸 말이다.
+
+시리얼 통신에서는 Data bit가 8-bit를 사용하므로 이를 하나의 심볼이라고 이야기 할 수 있다.
+
 
 <img src="https://user-images.githubusercontent.com/71697729/108465441-5ed3e180-72c5-11eb-9d13-1ae0715881b8.png" width="700" height="300">
 
