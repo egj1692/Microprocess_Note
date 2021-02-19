@@ -13,6 +13,7 @@ ISM(Industrial Scientific and Medical)대역인 2400 ~ 2483.5MHz를 사용한다
 피코넷상의 모든장치들은 마스터의 주파수 호핑 순번과 시간에 동기화된다.
 하나의 장치가 두 개이상의 피코넷에 참여되어 있는 상태를 스캐터넷이라고한다.
 
-![baudrate](https://user-images.githubusercontent.com/71697729/108465441-5ed3e180-72c5-11eb-9d13-1ae0715881b8.png){:height="700, width="300"}
+![baudrate](https://user-images.githubusercontent.com/71697729/108465441-5ed3e180-72c5-11eb-9d13-1ae0715881b8.png){: width="100" height="100"}
+{:height="700, width="300"}
  
  
