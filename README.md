@@ -1,4 +1,4 @@
-#통신
+# 통신
 
 블루투스(bluetooth)는 근거리 무선통신 규격의 하나로, 2.45GHz주파수를 이용하여 반경 10~100m 범위 안에서 각종 전자, 정보통신 기기를 무선으로 연결, 제어하는 기술규격을 말한다.
 
@@ -13,6 +13,6 @@ ISM(Industrial Scientific and Medical)대역인 2400 ~ 2483.5MHz를 사용한다
 피코넷상의 모든장치들은 마스터의 주파수 호핑 순번과 시간에 동기화된다.
 하나의 장치가 두 개이상의 피코넷에 참여되어 있는 상태를 스캐터넷이라고한다.
 
-![baudrate]<img_src="https://user-images.githubusercontent.com/71697729/108465441-5ed3e180-72c5-11eb-9d13-1ae0715881b8.png", height="700, width="300">
+![baudrate](https://user-images.githubusercontent.com/71697729/108465441-5ed3e180-72c5-11eb-9d13-1ae0715881b8.png){:height="700, width="300"}
  
  
