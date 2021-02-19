@@ -13,8 +13,8 @@ ISM(Industrial Scientific and Medical)대역인 2400 ~ 2483.5MHz를 사용한다
 ![스캐터넷](https://user-images.githubusercontent.com/71697729/108474100-3f8f8100-72d2-11eb-8c0c-f7069251b2fd.png)
 ![피코넷](https://user-images.githubusercontent.com/71697729/108474180-5d5ce600-72d2-11eb-9500-576940cc8d6b.png)
 
-<img src="https://user-images.githubusercontent.com/71697729/108474180-5d5ce600-72d2-11eb-9500-576940cc8d6b.png" width="300 height="300">
-<img src="https://user-images.githubusercontent.com/71697729/108474100-3f8f8100-72d2-11eb-8c0c-f7069251b2fd.png" width="300 height="200">
+<img src="https://user-images.githubusercontent.com/71697729/108474180-5d5ce600-72d2-11eb-9500-576940cc8d6b.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/71697729/108474100-3f8f8100-72d2-11eb-8c0c-f7069251b2fd.png" width="300" height="200">
 
 ※참고※
 하나의 공동 마스터로 최대7개의 슬레이브가 연결되어 하나의 피코넷을 형성한다. 
