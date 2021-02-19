@@ -15,3 +15,4 @@ ISM(Industrial Scientific and Medical)대역인 2400 ~ 2483.5MHz를 사용한다
 
 ![baudrate](https://user-images.githubusercontent.com/71697729/108465441-5ed3e180-72c5-11eb-9d13-1ae0715881b8.png)
  
+ 
