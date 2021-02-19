@@ -29,6 +29,8 @@ bps(Bit Per Second)는 초당 보낼 수 있는 비트의 수를 나타낸다.
 
 시리얼 통신에서는 Data bit가 8-bit를 사용하므로 이를 하나의 심볼이라고 이야기 할 수 있다.
 
+~데이터를 전송하는 것이 bit 단위로 전송하는지 아니면 byte단위로 전송하는지 확인해야 한다.
+ASCII코드를 사용할 때는 1Byte씩 표현된다. 따라서 ASCII코드를 기준으로는 9600bps를 전송하더라도 "1초에 전송하는 펄스의 수"인 buad rate는 1Byte ASCII코드로 전송해야 하기 때문에 1200Baudrate가 된다.~
 
 <img src="https://user-images.githubusercontent.com/71697729/108465441-5ed3e180-72c5-11eb-9d13-1ae0715881b8.png" width="700" height="300">
 
