@@ -10,7 +10,7 @@ ISM(Industrial Scientific and Medical)대역인 2400 ~ 2483.5MHz를 사용한다
 
 참고로 하나의 마스터에 최대 7개의 슬레이브기기를 연결할 수 있으면 마스터와 슬레이브 간의 통신만 가능할 뿐만 아니라 슬레이브 기기 간의 통신은 불가능하다. 그러나 마스터와 슬레이브의 역할은 고정된 것이 아니므로 상황에 따라 서로 역할을 바꿀 수 있다.
 
-<img src="https://user-images.githubusercontent.com/71697729/108474180-5d5ce600-72d2-11eb-9500-576940cc8d6b.png" width="300" height="200"><img src="https://user-images.githubusercontent.com/71697729/108474100-3f8f8100-72d2-11eb-8c0c-f7069251b2fd.png" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/71697729/108474180-5d5ce600-72d2-11eb-9500-576940cc8d6b.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/71697729/108474100-3f8f8100-72d2-11eb-8c0c-f7069251b2fd.png" width="200" height="200">
 
 ※참고※
 하나의 공동 마스터로 최대7개의 슬레이브가 연결되어 하나의 피코넷을 형성한다. 
